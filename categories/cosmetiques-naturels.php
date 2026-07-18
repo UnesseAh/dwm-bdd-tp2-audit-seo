@@ -14,10 +14,10 @@
     <header>
         <h1>Cosmétiques naturels marocains</h1>
         <nav>
-            <a href="../index.html">Accueil</a>
-            <a href="poterie-ceramique.html">Poterie</a>
-            <a href="textiles-tissage.html">Textiles</a>
-            <a href="cosmetiques-naturels.html">Cosmétiques</a>
+            <a href="../index.php">Accueil</a>
+            <a href="poterie-ceramique.php">Poterie</a>
+            <a href="textiles-tissage.php">Textiles</a>
+            <a href="cosmetiques-naturels.php">Cosmétiques</a>
         </nav>
     </header>
 

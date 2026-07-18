@@ -14,10 +14,10 @@
     <header>
         <h1>Textiles et tissage marocains</h1>
         <nav>
-            <a href="../index.html">Accueil</a>
-            <a href="poterie-ceramique.html">Poterie</a>
-            <a href="textiles-tissage.html">Textiles</a>
-            <a href="cosmetiques-naturels.html">Cosmétiques</a>
+            <a href="../index.php">Accueil</a>
+            <a href="poterie-ceramique.php">Poterie</a>
+            <a href="textiles-tissage.php">Textiles</a>
+            <a href="cosmetiques-naturels.php">Cosmétiques</a>
         </nav>
     </header>
 
@@ -48,9 +48,9 @@
 
         <section>
             <h2>Catégories liées</h2>
-            <p><a href="poterie-ceramique.html">Découvrir aussi la poterie marocaine</a></p>
-            <p><a href="cosmetiques-naturels.html">Découvrir aussi les cosmétiques naturels</a></p>
-            <p><a href="../index.html">Retour à l’accueil</a></p>
+            <p><a href="poterie-ceramique.php">Découvrir aussi la poterie marocaine</a></p>
+            <p><a href="cosmetiques-naturels.php">Découvrir aussi les cosmétiques naturels</a></p>
+            <p><a href="../index.php">Retour à l’accueil</a></p>
         </section>
     </main>
 
