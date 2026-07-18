@@ -25,10 +25,10 @@
             <h1>Artisanat marocain</h1>
             <p>Découvrez les principales catégories de produits artisanaux du Maroc.</p>
             <nav>
-                <a href="index.php">Accueil</a>
-                <a href="categories/poterie-ceramique.php">Poterie</a>
-                <a href="categories/textiles-tissage.php">Textiles</a>
-                <a href="categories/cosmetiques-naturels.php">Cosmétiques</a>
+                <a href="index.php?lang=<?php echo $lang; ?>">Accueil</a>
+                <a href="categories/poterie-ceramique.php?lang=<?php echo $lang; ?>">Poterie</a>
+                <a href="categories/textiles-tissage.php?lang=<?php echo $lang; ?>">Textiles</a>
+                <a href="categories/cosmetiques-naturels.php?lang=<?php echo $lang; ?>">Cosmétiques</a>
             </nav>
         </header>
 

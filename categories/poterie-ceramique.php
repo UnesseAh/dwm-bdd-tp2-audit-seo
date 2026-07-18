@@ -21,6 +21,7 @@ $products = $stmt->fetchAll();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Découvrez notre collection exclusive de poterie marocaine et céramiques artisanales faites à la main.">
     <title>Poterie & Céramique - Artisanat Marocain</title>
     <style>
         body {
