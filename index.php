@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+<?php
+include 'db.php';
+
+$lang = $_GET['lang'] ?? 'fr';
+
+if (!in_array($lang, ['ar', 'fr', 'en'])) {
+    $lang = 'fr';
+}
+?>
+
 <html lang="fr">
 
 <head>
